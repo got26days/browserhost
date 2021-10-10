@@ -1,0 +1,18 @@
+{
+    "name": "notepc/teplo",
+    "autoload": {
+        "psr-4": {
+            "Notepc\\Teplo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "got26days",
+            "email": "got26days@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3",
+        "spatie/browsershot": "^3.50"
+    }
+}
